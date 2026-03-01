@@ -74,14 +74,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohdhussainSunesara/MohdhussainSunesara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohdhussainSunesara/MohdhussainSunesara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohdhussainSunesara/MohdhussainSunesara/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h6 align="left">“Always building. Always learning.”</h6>
 
 ###
